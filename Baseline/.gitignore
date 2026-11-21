@@ -15,5 +15,5 @@ venv/
 .DS_Store
 
 # Environment variables
-.env.vscode/
+.env
 .vscode/
