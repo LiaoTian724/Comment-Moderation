@@ -17,3 +17,19 @@ venv/
 # Environment variables
 .env
 .vscode/
+
+
+
+# Trained models
+models/
+# Generated results
+results/
+
+
+# Temporary training files
+*.ckpt
+*.pt
+*.pth
+
+# Ignore all CSV files
+*.csv
