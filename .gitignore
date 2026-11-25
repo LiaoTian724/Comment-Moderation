@@ -25,11 +25,13 @@ models/
 # Generated results
 results/
 
+backup/
 
 # Temporary training files
 *.ckpt
 *.pt
 *.pth
+
 
 # Ignore all CSV files
 *.csv
